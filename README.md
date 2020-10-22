@@ -3,7 +3,7 @@ Projeto PHP para Upload de Dados no Banco de Dados através de um arquivo TXT
 
 
 ### Tela Inicial
-![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/6.JPG)
+![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/6.jpg)
 
 ### - Selecionar o arquivo para upload
 ![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/7.JPG)
