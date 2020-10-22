@@ -3,19 +3,12 @@ Projeto PHP para Upload de Dados no Banco de Dados através de um arquivo TXT
 
 
 ### Tela Inicial
-![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/1.JPG)
+![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/6.JPG)
 
 ### - Selecionar o arquivo para upload
-![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/2.JPG)
+![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/7.JPG)
 
 
 ### - Arquivo Selecionado clicar no botão "Importar Dados"
-![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/3.JPG)
+![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/8.JPG)
 
-
-### - Mensagem de Sucesso
-![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/4.JPG)
-
-
-### - Dados Salvos no Banco de Dados
-![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/5.JPG)
