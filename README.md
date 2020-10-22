@@ -5,6 +5,9 @@ Projeto PHP para Upload de Dados através de um arquivo TXT
 ### Tela Inicial para Selecionar o arquivo para upload e o tipo de Separador (, / :)
 ![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/6.jpg)
 
+### - Arquivo txt com os Dados
+![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/9.JPG)
+
 ### - Dados carregados com sucesso
 ![alt text](https://github.com/fellipespfc/phpuploadfile/blob/main/7.JPG)
 
